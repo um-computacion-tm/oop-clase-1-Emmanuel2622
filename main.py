@@ -1,5 +1,5 @@
 from persona import Persona1
-from Persona2 import Persona2
+from persona2 import Persona2
 
 if __name__ == '__main__':
 
